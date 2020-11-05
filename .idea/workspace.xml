@@ -36,6 +36,11 @@
     <property name="settings.editor.splitter.proportion" value="0.47684392" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\laravelapi\app\Http\Controllers\Api" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -51,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604518539357</updated>
       <workItem from="1604518540837" duration="479000" />
-      <workItem from="1604568672639" duration="4518000" />
+      <workItem from="1604568672639" duration="6877000" />
     </task>
     <servers />
   </component>
